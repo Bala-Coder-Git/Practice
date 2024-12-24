@@ -116,7 +116,7 @@ public class Demo {
 			 * al.stream().map(s->!set.add(s)).collect(Collectors.toList());
 			 */
 		
-		System.out.println("Balamma==========================");
+		System.out.println("Balamma=================================Balamma");
 		
 	
 		
